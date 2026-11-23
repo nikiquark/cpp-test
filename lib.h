@@ -2,6 +2,6 @@
 #include <iostream>
 
 void say_hello(){
-    // say hello
-    std::cout << "Hello!" << std::endl;
+    // MASTER 
+    std::cout << "Hello" << std::endl;
 }
